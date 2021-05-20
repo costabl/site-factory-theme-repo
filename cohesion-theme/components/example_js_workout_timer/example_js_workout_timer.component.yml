@@ -1,4 +1,4 @@
-name: Workout Timer
+name: Javascript Workout Timer
 description: 'Full Javascript Application'
 js:
   example_js_workout_timer.js: {}
