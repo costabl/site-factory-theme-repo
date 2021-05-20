@@ -1,0 +1,6 @@
+name: Workout Timer
+description: 'Full Javascript Application'
+js:
+  example_js_workout_timer.js: {}
+css:
+  example_js_workout_timer.css: {}
