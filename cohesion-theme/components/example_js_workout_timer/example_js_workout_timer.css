@@ -27,10 +27,10 @@ body {
 ===========================================================*/
 
 body {
-	background: rgb(230,230,230);
-	background: rgb(220,220,220);
+	background: #FDFA05;
+	background: #FDFA05;
 
-	color: rgb(50,50,50);
+	color: #000000;
 }
 
 a {
